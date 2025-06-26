@@ -1,6 +1,5 @@
-# BLU2Dengine
-![BLU2Dengine modules with logos](https://github.com/BLU2D-Engine/.github/blob/main/blu2d_engine_core_logo_text_2.png?raw=true)
-
+# vexEngine
+![vexEngine logo](https://github.com/VexEngine/.github/blob/main/images/VexEngine_logo_text.png?raw=true)
 
 
 ## Features
