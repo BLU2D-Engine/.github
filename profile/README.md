@@ -1,5 +1,5 @@
 # vexEngine
-![vexEngine logo](https://github.com/VexEngine/.github/blob/main/images/VexEngine_logo_text.png?raw=true)
+![vexEngine logo](https://github.com/VexEngine/.github/blob/main/images/vexEngine_logo_text-min.png?raw=true)
 
 
 ## Features
